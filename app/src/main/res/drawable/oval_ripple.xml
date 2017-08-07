@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+    <!-- //TODO colorControlHighlight 波纹和列表选择器等使用的颜色 -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?attr/colorAccent"/>
+        </shape>
+    </item>
+
+</ripple>
